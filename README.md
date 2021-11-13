@@ -1,2 +1,2 @@
-# bookmarked-project
-<REVA HACK> Project draft
+# bookmarked. - a book club website
+REVA HACK 2021
