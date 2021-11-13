@@ -1,0 +1,42 @@
+*, *::before, *::after{
+    margin:2px;
+    padding:2px;
+    box-sizing:content-box;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: bold;
+}
+
+
+p img{
+    display: block;
+    width: 100px;
+    border-radius: 50px; 
+}
+
+section{
+    background: white;
+    color: black;
+    padding:4px;
+    display: inline-flex;
+    background-image: url(https://i.pinimg.com/564x/e1/28/82/e128822d70846c22c81365fbfb2220aa.jpg);
+    width: 100%;
+}
+
+section div{
+    background: rgb(226, 190, 143);
+    opacity: 0.8;
+    width:auto;
+    height:auto;  
+    border-radius: 15px;   
+}
+
+
+
+
+
+
